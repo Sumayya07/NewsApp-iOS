@@ -1,6 +1,6 @@
 # iOS News App Assignment
 
-This project is an iOS News App assignment that fetches news articles from the News API and displays them in a table view. The app utilizes the MVVM architecture pattern and demonstrates API integration, data modeling, and UI implementation.
+This project is an iOS News App that fetches news articles from the News API and displays them in a table view. The app utilizes the MVVM architecture pattern and demonstrates API integration, data modeling, and UI implementation.
 
 <p align="center">
 
